@@ -19,9 +19,9 @@
 
 > https://task-json-production.up.railway.app/ <br><br>
  Tecnología, herramientas y metodología: 
-  - Node JS
-  - Express
-  - Flash
+  - Node JS.
+  - Express.
+  - Flash message.
   - POO (Programación orientada a objetos).
 
 -------------
@@ -49,5 +49,5 @@ English
  Technology, tools and methodology: 
   - Node JS
   - Express
-  - Flash
-  - Object-oriented programming 
+  - Flash message.
+  - Object-oriented programming.
