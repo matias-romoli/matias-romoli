@@ -1,4 +1,4 @@
-<img src="https://github.com/matias-romoli/matias-romoli/blob/main/GIT.png">
+<img src="https://github.com/matias-romoli/matias-romoli/blob/main/presentation.png">
 
 
 # ¡Bienvenido/a!
