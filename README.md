@@ -1,7 +1,4 @@
-<img src="https://github.com/matias-romoli/matias-romoli/blob/main/presentation.png">
-
-
-# ¡Bienvenido/a!
+# Hola, ¡Bienvenido/a! :wave:
 
 ### Tecnologías
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/>]()
@@ -14,11 +11,10 @@
 <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="50px"/>
 
 
-### Proyecto
+### Proyectos
 
 <img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="370">
 
-> https://task-json-production.up.railway.app/ <br><br>
  Tecnología, herramientas y metodología: 
   - Node JS.
   - Express.
