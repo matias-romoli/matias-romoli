@@ -12,7 +12,7 @@
 
 
 ### Proyectos
-
+ # Backend
 <img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="370">
 
  Tecnología, herramientas y metodología: 
@@ -21,6 +21,17 @@
   - Flash message.
   - POO (Programación orientada a objetos).
 
+ # Backend y Frontend
+ <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
+ 
+ To Do List
+  Herramientas y metodología: 
+  - React JS. 
+  - Node JS.
+  - Toastify.
+  - Typed. 
+  - Sass.
+  
 -------------
 <p align="center">
 English
@@ -40,12 +51,23 @@ English
 
 
 ### Project
-
+ # Backend
 <img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="370">
 
-> https://task-json-production.up.railway.app/ <br><br>
  Technology, tools and methodology: 
   - Node JS
   - Express
   - Flash message.
   - Object-oriented programming.
+
+ # Backend y Frontend
+ <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
+ 
+ To Do List
+ Technology, tools and methodology: 
+  - React JS. 
+  - Node JS.
+  - Toastify.
+  - Typed. 
+  - Sass.
+  
