@@ -11,8 +11,8 @@
 <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="50px"/>
 
 
-### Proyectos
- # Backend
+## Proyectos
+ ### Backend
 <img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="370">
 
  Tecnología, herramientas y metodología: 
@@ -21,7 +21,7 @@
   - Flash message.
   - POO (Programación orientada a objetos).
 
- # Backend y Frontend
+ ### Backend y Frontend
  <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
  
  To Do List
@@ -50,8 +50,8 @@ English
 <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="50px"/>
 
 
-### Project
- # Backend
+## Project
+ ### Backend
 <img src="https://media.giphy.com/media/TWn2V6FKqZQGLvd32Q/giphy.gif" width="370">
 
  Technology, tools and methodology: 
@@ -60,7 +60,7 @@ English
   - Flash message.
   - Object-oriented programming.
 
- # Backend y Frontend
+ ### Backend y Frontend
  <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
  
  To Do List
