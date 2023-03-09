@@ -22,7 +22,7 @@
   - POO (Programación orientada a objetos).
 
  ### Backend y Frontend
- <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU3OTQyNzVjNGM4MzdjMmViNTMyNWEwNjg3NzNiNzY2MDE0MmQzZCZjdD1n/bi93N1TurdZuaDN6hr/giphy.gif" width = 370px />
  
  To Do List
   Herramientas y metodología: 
@@ -61,8 +61,7 @@ English
   - Object-oriented programming.
 
  ### Backend y Frontend
- <img src="https://media.giphy.com/media/eBM0mcSsvUbewUsIZ1/giphy.gif" width = 370px /> <img src="https://media.giphy.com/media/8XZieUJ7n91i5qDQlo/giphy.gif" width = 370px />
- 
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU3OTQyNzVjNGM4MzdjMmViNTMyNWEwNjg3NzNiNzY2MDE0MmQzZCZjdD1n/bi93N1TurdZuaDN6hr/giphy.gif" width = 370px />
  To Do List
  Technology, tools and methodology: 
   - React JS. 
