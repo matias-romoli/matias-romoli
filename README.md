@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif de bienvenida">
 
 <div id="user-content-toc" align="center">
-  <summary><h1 style="display: inline-block">Hola 👋, Soy Matías</h1></summary>
+  <h1 style="display: inline-block">Hola👋, Soy <s><a href="https://github.com/matias-romoli" target="_blank">Matías</a></s></h1>
 </div>
 
 <!-- Agregar banner debajo del texto -->
 <p align="center">
-  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="max-width: 50%; height: auto;">
 </p>
 
 <div id="user-content-toc" align="center">
