@@ -10,15 +10,15 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías y herramientas👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
 <p align="center" margin=10px>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,express,figma,github,js,&perline=14" /> <br><br>
-    <img src="https://skillicons.dev/icons?i=materialui,nginx,mongodb,mysql,nodejs,postman,react,tailwind,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,express,github,js,&perline=14" /> <br><br>
+    <img src="https://skillicons.dev/icons?i=nginx,mongodb,mysql,nodejs,postman,react,tailwind,&perline=14" />
   </a>
 </p>
 
