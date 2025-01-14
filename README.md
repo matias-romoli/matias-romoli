@@ -6,7 +6,7 @@
 
 <!-- Agregar banner debajo del texto -->
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_DE_BANNER" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="max-width: 100%; height: auto;">
 </p>
 
 <div id="user-content-toc" align="center">
