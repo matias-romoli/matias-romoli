@@ -23,10 +23,42 @@
 </p>
 
 <div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">Trabajos en imágenes 💻</h2></summary>
-  </ul>
+  <summary><h2 style="display: inline-block">Trabajos en imágenes 💻</h2></summary>
 </div>
+
+<p align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+   
+    <div style="width: 250px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://via.placeholder.com/250" alt="Proyecto 1" style="width: 100%; height: 150px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3>Proyecto 1</h3>
+        <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
+      </div>
+    </div>
+    
+    <div style="width: 250px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://via.placeholder.com/250" alt="Proyecto 2" style="width: 100%; height: 150px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3>Proyecto 2</h3>
+        <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
+      </div>
+    </div>
+    
+    <div style="width: 250px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://via.placeholder.com/250" alt="Proyecto 3" style="width: 100%; height: 150px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3>Proyecto 3</h3>
+        <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
+      </div>
+    </div>
+
+  </div>
+</p>
+
+
+  </div>
+</p>
 
 <div id="user-content-toc" align="center">
   <ul>
