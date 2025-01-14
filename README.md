@@ -4,9 +4,8 @@
   <h1 style="display: inline-block">Hola👋, Soy <s><a href="https://github.com/matias-romoli" target="_blank">Matías</a></s></h1>
 </div>
 
-<!-- Agregar banner debajo del texto -->
 <p align="center">
-  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="max-width: 50%; height: auto;">
+  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="width: 100px; height: 200px;">
 </p>
 
 <div id="user-content-toc" align="center">
