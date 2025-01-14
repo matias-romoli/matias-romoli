@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="width: 100px; height: 200px;">
+  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="width: 50%; height: 200px;">
 </p>
 
 <div id="user-content-toc" align="center">
