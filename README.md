@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif de bienvenida">
 
 <div id="user-content-toc" align="center">
-  <h1 style="display: inline-block">Hola👋, Soy <s><a href="https://github.com/matias-romoli" target="_blank">Matías</a></s></h1>
+  <h1 style="display: inline-block">Hola, Soy <s><a href="https://github.com/matias-romoli" target="_blank">Matías👋</a></s></h1>
 </div>
 
 <p align="center">
