@@ -30,17 +30,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/matias-romoli/matias-romoli/blob/main/shorturl" alt="Proyecto 1" width="300">
-        <h3>Short URL</h3>
+        <a href="https://github.com/matias-romoli/short-url" target="_blank">
+          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/shorturl" alt="Proyecto 1" width="300">
+          <h3>Short URL</h3>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe" alt="Proyecto 2" width="300">
-        <h3>Tic Tac Toe</h3>
-      </td>
-      <td>
-        <img src="https://via.placeholder.com/250" alt="Proyecto 3" width="250">
-        <h3>Proyecto 3</h3>
-        <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
+        <a href="https://github.com/matias-romoli/tic-tac-toe" target="_blank">
+          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe" alt="Proyecto 2" width="300">
+          <h3>Tic Tac Toe</h3>
+        </a>
       </td>
     </tr>
   </table>
