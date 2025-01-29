@@ -24,7 +24,7 @@ Una aplicación para crear enlaces cortos de manera sencilla y eficiente.
 ![Short URL](https://github.com/matias-romoli/matias-romoli/blob/main/shorturl)
 
 ### 2. [**Tic Tac Toe**](https://github.com/matias-romoli/tic-tac-toe)
-El clásico juego de Tic Tac Toe (Tres en línea), desarrollado en JavaScript.
+El clásico juego de Tic Tac Toe, desarrollado con JavaScript.
 
 ![Tic Tac Toe](https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe)
 
