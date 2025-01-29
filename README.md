@@ -36,19 +36,6 @@ Puedes encontrarme en las siguientes redes sociales:
 
 [LinkedIn](https://www.linkedin.com/in/matias-romoli-369a722a8/) | [Twitter](https://twitter.com/1010nishant) | [Instagram](https://www.instagram.com/matiasromoli/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matias-romoli-369a722a8/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" height="40" />
-  </a>
-  <a href="https://twitter.com/1010nishant" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" height="40" />
-  </a>
-  <a href="https://www.instagram.com/matiasromoli/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" height="40" />
-  </a>
-</p>
-
-
 ---
 
 # ¡Gracias por visitar mi perfil! ✨
