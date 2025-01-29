@@ -31,13 +31,13 @@
     <tr>
       <td>
         <a href="https://github.com/matias-romoli/short-url" target="_blank">
-          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/shorturl" alt="Proyecto 1" width="300">
+          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/shorturl" alt="Proyecto 1" width="300" height="200">
           <h3>Short URL</h3>
         </a>
       </td>
       <td>
         <a href="https://github.com/matias-romoli/tic-tac-toe" target="_blank">
-          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe" alt="Proyecto 2" width="300">
+          <img src="https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe" alt="Proyecto 2" width="300" height="200">
           <h3>Tic Tac Toe</h3>
         </a>
       </td>
