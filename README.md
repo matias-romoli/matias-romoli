@@ -6,7 +6,9 @@
 
 Bienvenido a mi perfil. Soy un apasionado desarrollador web con experiencia en diversas tecnologías. ¡Echa un vistazo a algunos de mis proyectos y conoce más sobre mi trabajo!
 
----
+<p align="center">
+  <img src="https://github.com/matias-romoli/matias-romoli/blob/main/%23181619.png" alt="Banner" style="width: 100%; height: auto;">
+</p>
 
 ## 🚀 Tecnologías y Herramientas
 
