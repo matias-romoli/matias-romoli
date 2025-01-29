@@ -30,12 +30,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://via.placeholder.com/250" alt="Proyecto 1" width="250">
+        <img src="https://github.com/matias-romoli/matias-romoli/blob/main/shorturl" alt="Proyecto 1" width="250">
         <h3>Proyecto 1</h3>
         <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
       </td>
       <td>
-        <img src="https://via.placeholder.com/250" alt="Proyecto 2" width="250">
+        <img src="https://github.com/matias-romoli/matias-romoli/blob/main/tictactoe" alt="Proyecto 2" width="250">
         <h3>Proyecto 2</h3>
         <p>Descripción breve del proyecto. Este es un resumen de lo que hace este proyecto.</p>
       </td>
