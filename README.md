@@ -32,7 +32,7 @@ El clásico juego de Tic Tac Toe, desarrollado con JavaScript.
 
 ## 🤝 Conéctate conmigo
 
-Puedes encontrarme en las siguientes redes sociales:
+Puedes encontrarme en:
 
 [LinkedIn](https://www.linkedin.com/in/matias-romoli-369a722a8/)
 ---
