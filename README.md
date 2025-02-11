@@ -19,7 +19,7 @@
 ## 💻 Proyectos
 
 ### 1. [**Short URL**](https://github.com/matias-romoli/short-url)
-Una aplicación para crear enlaces cortos de manera sencilla y eficiente.
+Una aplicación para crear enlaces cortos.
 
 ![Short URL](https://github.com/matias-romoli/matias-romoli/blob/main/shorturl)
 
@@ -32,7 +32,7 @@ El clásico juego de Tic Tac Toe, desarrollado con JavaScript.
 
 ## 🤝 Conéctate conmigo
 
-Puedes encontrarme en:
+Podés encontrarme en:
 
 [LinkedIn](https://www.linkedin.com/in/matias-romoli-369a722a8/)
 ---
