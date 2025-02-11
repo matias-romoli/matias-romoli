@@ -34,8 +34,7 @@ El clásico juego de Tic Tac Toe, desarrollado con JavaScript.
 
 Puedes encontrarme en las siguientes redes sociales:
 
-[LinkedIn](https://www.linkedin.com/in/matias-romoli-369a722a8/) | [Twitter](https://twitter.com/1010nishant) | [Instagram](https://www.instagram.com/matiasromoli/)
-
+[LinkedIn](https://www.linkedin.com/in/matias-romoli-369a722a8/)
 ---
 
 # ¡Gracias por visitar mi perfil! ✨
